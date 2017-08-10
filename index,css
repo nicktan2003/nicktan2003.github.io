@@ -1,0 +1,6 @@
+body {color: red;
+font-size: 26px;
+background: #aaa234;
+text-align: center;}
+.first-group {color: black;}
+.last-group {color: blue;}
